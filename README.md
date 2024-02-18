@@ -13,3 +13,5 @@ SVM regression tries to find a hyperplane that separates the data points with a 
 
 ## Random forest 
 Random forest is another type of ensemble method that uses decision trees as base learners. It creates many trees from random subsets of the data and features, and averages their predictions. The values of the model depend on the number of trees, the maximum depth of the trees, the minimum number of samples required to split a node, and the criterion used to measure the quality of a split4. These parameters can influence the diversity and accuracy of the trees.
+
+<img width="933" alt="Screenshot 2024-02-18 120457" src="https://github.com/vishnu300/House_Price_Prediction_Django/assets/121032542/ff0c1a4a-c4ab-4f19-a974-79647da5b558">
