@@ -1,0 +1,196 @@
+
+.price{
+    position: absolute;
+    width: 963px;
+    height: 70px;
+    left: 211px;
+    top: 102px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 70px;
+    /* identical to box height */
+
+    color: #AA7979;
+}
+
+.area{
+    position: absolute;
+    width: 181px;
+    height: 30px;
+    left: 263px;
+    top: 253px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.bath{
+
+    position: absolute;
+    width: 178px;
+    height: 30px;
+    left: 263px;
+    top: 374px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+
+
+.bed{
+    position: absolute;
+    width: 161px;
+    height: 30px;
+    left: 263px;
+    top: 479px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.flor{
+    position: absolute;
+    width: 210px;
+    height: 30px;
+    left: 263px;
+    top: 607px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.est{
+    position: absolute;
+    width: 251px;
+    height: 50px;
+    left: 549px;
+    top: 646px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 50px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+
+.image{
+    position: absolute;
+    width: 1254px;
+    height: 900px;
+    left: 0px;
+    top: -34px;
+    background: url(Neely-Sieber_House,_front.jpg);
+}
+
+
+.qq{
+    position: absolute;
+    height: 66px;
+    left: 507px;
+    top: 238px;
+    
+    border-radius: 12px;
+
+}
+
+.qq1{
+    position: absolute;
+    height: 66px;
+    left: 507px;
+    top: 359px;
+    
+    border-radius: 12px
+}
+
+
+
+
+.qq2{
+
+
+position: absolute;
+height: 66px;
+left: 507px;
+top: 463px;
+
+border-radius: 12px;
+
+
+}
+
+
+
+.qq3{
+
+
+position: absolute;
+height: 66px;
+left: 507px;
+top: 592px;
+
+border-radius: 12px;
+
+}
+
+.pred{
+    position: absolute;
+    width: 251px;
+    height: 50px;
+    left: 386px;
+    top: 747px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 50px;
+    color: #000000;
+}
+
+
+
+.est1{
+    position: absolute;
+    width: 251px;
+    height: 50px;
+    left: 549px;
+    top: 646px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 50px;
+    /* identical to box height */
+
+    color: #000000;
+}
