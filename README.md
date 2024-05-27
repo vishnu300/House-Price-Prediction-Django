@@ -1,6 +1,5 @@
-# House_Price_Prediction_Django
-To Fing House Price to Predict Suitable Machine Learning Algorithams
-
+# House_Price_Prediction_Machine_learning_and DJANGO FRAME WORK.......
+![Screenshot 2024-05-27 151626](https://github.com/vishnu300/House_Price_Prediction_Django/assets/121032542/61f95331-3f26-4aac-bb00-a85bf38f127a)
 
 ## Linear regression 
 Linear regression assumes that the target variable can be expressed as a linear combination of the independent variables (plus error). If the data does not follow this assumption, the model may not capture the true relationship and produce inaccurate or unstable estimates
@@ -14,4 +13,4 @@ SVM regression tries to find a hyperplane that separates the data points with a 
 ## Random forest 
 Random forest is another type of ensemble method that uses decision trees as base learners. It creates many trees from random subsets of the data and features, and averages their predictions. The values of the model depend on the number of trees, the maximum depth of the trees, the minimum number of samples required to split a node, and the criterion used to measure the quality of a split4. These parameters can influence the diversity and accuracy of the trees.
 
-<img width="933" alt="Screenshot 2024-02-18 120457" src="https://github.com/vishnu300/House_Price_Prediction_Django/assets/121032542/ff0c1a4a-c4ab-4f19-a974-79647da5b558">
+
